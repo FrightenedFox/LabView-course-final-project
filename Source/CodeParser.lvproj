@@ -18,6 +18,7 @@
 		<Item Name="Classes.ctl" Type="VI" URL="../Controls/Classes.ctl"/>
 		<Item Name="SplittedString.ctl" Type="VI" URL="../Controls/SplittedString.ctl"/>
 		<Item Name="SplittedStringTokens.ctl" Type="VI" URL="../Controls/SplittedStringTokens.ctl"/>
+		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
