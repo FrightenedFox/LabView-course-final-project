@@ -14,6 +14,10 @@
 		<Item Name="build_parse_tree.vi" Type="VI" URL="../build_parse_tree.vi"/>
 		<Item Name="evaluate.vi" Type="VI" URL="../evaluate.vi"/>
 		<Item Name="operate.vi" Type="VI" URL="../operate.vi"/>
+		<Item Name="split_string.vi" Type="VI" URL="../split_string.vi"/>
+		<Item Name="Classes.ctl" Type="VI" URL="../Controls/Classes.ctl"/>
+		<Item Name="SplittedString.ctl" Type="VI" URL="../Controls/SplittedString.ctl"/>
+		<Item Name="SplittedStringTokens.ctl" Type="VI" URL="../Controls/SplittedStringTokens.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
