@@ -11,11 +11,14 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="parse_tree.vi" Type="VI" URL="../parse_tree.vi"/>
+		<Item Name="build_parse_tree.vi" Type="VI" URL="../build_parse_tree.vi"/>
+		<Item Name="evaluate.vi" Type="VI" URL="../evaluate.vi"/>
+		<Item Name="operate.vi" Type="VI" URL="../operate.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="Tree Map.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/Tree Map/Tree Map.lvlib"/>
+				<Item Name="LVMapReplaceAction.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVMapReplaceAction.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
