@@ -19,8 +19,9 @@
 		<Item Name="SplittedString.ctl" Type="VI" URL="../Controls/SplittedString.ctl"/>
 		<Item Name="SplittedStringTokens.ctl" Type="VI" URL="../Controls/SplittedStringTokens.ctl"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
-		<Item Name="state machine cluster.ctl" Type="VI" URL="../Controls/state machine cluster.ctl"/>
-		<Item Name="state machine enumarator.ctl" Type="VI" URL="../Controls/state machine enumarator.ctl"/>
+		<Item Name="Data.ctl" Type="VI" URL="../Controls/Data.ctl"/>
+		<Item Name="States.ctl" Type="VI" URL="../Controls/States.ctl"/>
+		<Item Name="substitute.vi" Type="VI" URL="../substitute.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
